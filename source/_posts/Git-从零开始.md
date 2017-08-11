@@ -2,6 +2,12 @@
 title: 'Git:从零开始'
 date: 2017-08-06 20:27:00
 tags:
+- Git
+- GitHub
+- 版本控制
+- 代码托管
+categories:
+- GitHub
 ---
 # 初识GitHub
 ## 1. 什么是GitHub

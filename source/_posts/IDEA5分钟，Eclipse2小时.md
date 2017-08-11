@@ -1,7 +1,12 @@
 ---
 title: IDEA5分钟，Eclipse2小时
 date: 2017-08-06 21:30:51
-tags:
+tags: 
+- IDEA
+- JetBrains
+- 开发工具
+categories：
+- IDE工具
 ---
 # IDEA概述
 ## 1.1 Java开发人员常用IDE
