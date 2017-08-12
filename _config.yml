@@ -96,9 +96,4 @@ feed:
 sitemap:
   path: sitemap.xml
 avatar: /images/photo.png
-# add post views
-leancloud_visitors:
-  enable: true
-  app_id: NgYKO4HdCt1Q5ceUi67P8bRc-gzGzoHsz
-  app_key: KTvNwn7mULzwlv3aXwgfIGGg
 
