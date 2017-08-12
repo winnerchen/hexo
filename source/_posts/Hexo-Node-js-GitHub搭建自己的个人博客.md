@@ -165,7 +165,7 @@ author: Your Name
 language:
 timezone:
 ```
-配置url和root：
+配置url和root（非常重要！如果没有配置成功会显示不出样式和主题！）：
 ```
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
