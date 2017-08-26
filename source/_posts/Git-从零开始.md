@@ -1,6 +1,7 @@
 ---
 title: 'Git:从零开始'
 date: 2017-08-06 20:27:00
+copyright: true
 tags:
 - Git
 - GitHub

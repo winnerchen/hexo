@@ -1,6 +1,7 @@
 ---
 title: Hexo+Node.js+GitHub搭建自己的个人博客
 date: 2017-08-11 16:18:17
+copyright: true
 tags:
 - Hexo
 - 个人博客
@@ -214,4 +215,6 @@ To be continued...
 To be continued...
 # 7.插件安装
 To be continued...
+
+***
 

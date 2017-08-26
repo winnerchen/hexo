@@ -1,6 +1,7 @@
 ---
 title: 搬瓦工+SS+FS搭建自己的翻墙神器
 date: 2017-08-09 16:49:17
+copyright: true
 tags:
 ---
 # 前言
@@ -80,3 +81,4 @@ FS相关命令
 ![](https://raw.githubusercontent.com/winnerchen/hexo/master/source/images/vps_8.png) 
 
 如果一切顺利，至此一切配置都已配完，是时候享受自由无限制的网络了！
+***
